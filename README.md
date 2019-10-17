@@ -57,8 +57,13 @@ RESOURCES USED
 ----------------------
 
 https://api.drupal.org/api/drupal/core%21lib%21Drupal%21Core%21Form%21form.api.php/function/hook_form_FORM_ID_alter/8.2.x
+
 https://www.drupal.org/node/2407153
+
 https://api.drupal.org/api/drupal/core!includes!bootstrap.inc/function/drupal_set_message/8.2.x
+
 https://www.drupal.org/docs/8/api/routing-system/structure-of-routes
+
 https://www.drupal.org/docs/8/api/routing-system/using-parameters-in-routes
+
 https://api.drupal.org/api/drupal/vendor%21symfony%21http-foundation%21JsonResponse.php/class/JsonResponse/8.2.x
