@@ -15,7 +15,7 @@ class ExtendedSiteInformationForm extends SiteInformationForm {
 		$site_config = $this->config('system.site');
 		$form =  parent::buildForm($form, $form_state);
 		$form['site_information']['siteapikey'] = [
-			'#type' => 'textfield',
+			'#title2' => t('Site pass'),
 			'#title' => t('Site API Key'),
 			'#default_value' => $site_config->get('siteapikey') ?: 'No API Key yet',
 			'#description' => t("Custom field to set the API Key"),
