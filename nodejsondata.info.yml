@@ -1,4 +1,4 @@
 name: Node Json Data
 type: module
-core: '8.x'
+core: '9.x'
 description: 'Adding Dynamic API Endpoint'
