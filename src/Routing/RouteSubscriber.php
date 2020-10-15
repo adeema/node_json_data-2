@@ -11,7 +11,7 @@ class RouteSubscriber extends RouteSubscriberBase {
 
   /**
    * {@inheritdoc}
-   */
+   **//
   protected function alterRoutes(RouteCollection $collection) {
     if ($route = $collection->get('system.site_information_settings')) 
       $route->setDefault('_form', '\Drupal\nodejsondata\Form\ExtendedSiteInformationForm');
