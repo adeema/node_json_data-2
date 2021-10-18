@@ -1,5 +1,5 @@
 <?php 
-namespace Drupal\nodejsondata\Routing;
+namespace Drupal\nodejsondata2\Routing;
 
 use Drupal\Core\Routing\RouteSubscriberBase;
 use Symfony\Component\Routing\RouteCollection;
